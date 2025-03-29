@@ -1,0 +1,1 @@
+# meshtastic-wireless-stick-lite_v1
